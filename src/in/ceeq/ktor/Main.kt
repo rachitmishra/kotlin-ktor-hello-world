@@ -1,4 +1,4 @@
-package com.practo;
+package in.ceeq.ktor;
 
 import org.jetbrains.ktor.application.call
 import org.jetbrains.ktor.host.embeddedServer
